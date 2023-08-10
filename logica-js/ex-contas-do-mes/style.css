@@ -29,3 +29,26 @@ pre {
 input {
  padding: 4px;
 }
+
+@media (max-width: 950px) {
+ .container {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0 auto;
+ }
+ .container img {
+  display: none;
+ }
+
+ .text-content h1 {
+  font-size: 2rem;
+ }
+
+ form {
+  font-size: 1rem;
+ }
+
+ pre {
+  font-size: 1rem;
+ }
+}

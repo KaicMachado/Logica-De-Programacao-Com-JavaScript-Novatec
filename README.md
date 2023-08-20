@@ -42,6 +42,8 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Repete Fruta](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-repete-fruta);
 
+[Criação Chinchilas](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-chinchila);
+
 **Capítulo 5** - **_Vetores_**
 
 Em breve será adicionado os exercícios deste capítulo.

@@ -10,74 +10,38 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 **Capítulo 2** - **_Integração com HTML_**
 
-[Locadora](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Locadora);
+[Revenda de Veículos](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-aluno);
 
-[Revenda de Veículos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/RevendaDeVeiculos);
+[Restaurante](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-restaurante);
 
-[Restaurante](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Restaurante);
+[Farmácia](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-farmacia);
 
-[Farmácia](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Farmacia);
-
-[Lan House](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/LanHouse);
-
-[Supermercado](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Supermercado);
+[Lan House](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-lan-house);
 
 **Capítulo 3** - **_Condicionais_**
 
-[Peso Ideal](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/PesoIdeal);
+[Peso Ideal](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-peso-ideal);
 
-[Fuso Horário](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/FusoHorario);
+[Fuso Horário](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-fuso-horario);
 
-[Raiz Quadrada](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/RaizQuadrada);
+[Raiz Quadrada](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-raiz-quadrada);
 
-[Caixa Eletrônico](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/CaixaEletronico);
+[Caixa Eletrônico](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-caixa-eletronico);
 
-[Par ou Ímpar](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ParOuImpar);
-
-[Verifica Velocidade](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/VerificaVelocidade);
-
-[Parquímetro](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Parquimetro);
-
-[Lados do Triângulo](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/LadosDoTriangulo);
+[Lados do Triângulo](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-triangulo);
 
 **Capítulo 4** - **_Repetições_**
 
-[Tabuada](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Tabuada);
+[Tabuada](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-tabuada);
 
-[Números Decrescentes](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosDecrescentes);
+[Números Decrescentes](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-numeros-decrescentes);
 
-[Contas do Mês](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ContasDoMes);
+[Contas do Mês](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-contas-do-mes);
 
-[Números Primos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosPrimos);
+[Números Primos](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-numeros-primos);
 
-[Fábrica de Estrelas](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/FabricaDeEstrelas);
+[Repete Fruta](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-repete-fruta);
 
-[Repete Fruta](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/RepeteFruta);
-
-[Criação de Chinchilas](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/CriacaoDeChinchilas);
-
-[Números Perfeitos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosPerfeitos);
-
-[Fábrica de Estrelas 2](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/FabricaDeEstrelas2);
-
-**Capítulo 5** - **_Arrays / Vetores_**
-
-[Consultório Odontológico](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ConsultorioOdontologico);
-
-[Descubra o Número](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/DescubraONumero);
-
-[Revenda Herbie](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/RevendaHerbie);
-
-[Brinquedoteca](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ProgramaBrinquedoteca);
-
-[Jogos Eliminatórios](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/JogosEliminatorios);
-
-[Números em Ordem](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosEmOrdem);
-
-[Programa Concurso](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ProgramaConcurso);
-
-[Últimas Notícias](https://github.com/gabrielmxavier/Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/UltimasNoticias);
-
-**Capítulo 6** - **_Strings e Datas_**
+**Capítulo 5** - **_Vetores_**
 
 Em breve será adicionado os exercícios deste capítulo.

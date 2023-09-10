@@ -46,4 +46,6 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 **Capítulo 5** - **_Vetores_**
 
+[Consultório Odontológico](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-consultorio-odontologico);
+
 Em breve será adicionado os exercícios deste capítulo.

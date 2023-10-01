@@ -48,4 +48,6 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Consultório Odontológico](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-consultorio-odontologico);
 
+[Jogo Descubra o Número](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-descubra-o-numero);
+
 Em breve será adicionado os exercícios deste capítulo.

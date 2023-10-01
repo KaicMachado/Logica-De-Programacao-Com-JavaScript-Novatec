@@ -1,0 +1,15 @@
+body {
+ text-align: center;
+}
+
+.italico {
+ font-style: italic;
+}
+
+.inativo {
+ display: none;
+}
+
+.ativo {
+ display: inline-block;
+}

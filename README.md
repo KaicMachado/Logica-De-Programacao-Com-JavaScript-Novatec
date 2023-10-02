@@ -50,4 +50,6 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Jogo Descubra o Número](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-descubra-o-numero);
 
+[Revenda Herbie](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-revenda-herbie);
+
 Em breve será adicionado os exercícios deste capítulo.

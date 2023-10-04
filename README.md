@@ -52,4 +52,6 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Revenda Herbie](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-revenda-herbie);
 
+[Programa Brinquedoteca](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-brinquedoteca);
+
 Em breve será adicionado os exercícios deste capítulo.

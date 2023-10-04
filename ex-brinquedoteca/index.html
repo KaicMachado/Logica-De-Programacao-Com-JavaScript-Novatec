@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Programa Brinquedoteca</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Programa Brinquedoteca</h1>
+    <form>
+      <p>
+        <label for="inNome">Nome da Criança:</label>
+        <input type="text" name="inNome" id="inNome" required>
+      </p>
+      <p>
+        <label for="inIdade">Idade:</label>
+        <input type="number" name="inIdade" id="inIdade" required>
+        <input type="submit" value="Adicionar">
+      </p>
+      <input type="button" id="btnListar" value="Listar Todos">
+      <input type="button" id="btnResumir" value="Resumir por Idade">
+    </form>
+    <pre id="resp"></pre>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

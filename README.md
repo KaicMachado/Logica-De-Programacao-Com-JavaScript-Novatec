@@ -54,4 +54,6 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Programa Brinquedoteca](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-brinquedoteca);
 
+[Programa Criar Tabela de Jogos](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-jogos-eliminatorios);
+
 Em breve será adicionado os exercícios deste capítulo.

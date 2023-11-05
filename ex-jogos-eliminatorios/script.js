@@ -1,7 +1,7 @@
 const form = document.querySelector("form");
 const respTabela = document.querySelector("#tabela");
 const btnListar = document.querySelector("#listarClubes");
-const montarTabela = document.querySelector("#montarTabela");
+const btnMontarTabela = document.querySelector("#montarTabela");
 const listaTimes = [];
 
 let lista = " ";
@@ -36,8 +36,21 @@ form.addEventListener("submit", (e) => {
  }
 });
 
+// adiciono a função de listar no botao
 btnListar.addEventListener("click", (e) => {
  e.preventDefault();
  respTabela.innerText = "";
  listarClubes(listaTimes);
+});
+
+// adiciono a funcao montar tabela
+btnMontarTabela.addEventListener("click", (e) => {
+ e.preventDefault();
+ respTabela.innerText = "";
+ const copiaLista = [...listaTimes];
+ for (i = 0; i <= copiaLista.length; i++) {
+  const primeiro = copiaLista.shift();
+  const ultimo = copiaLista.pop();
+  respTabela.innerText += `${primeiro} x ${ultimo} \n`;
+ }
 });

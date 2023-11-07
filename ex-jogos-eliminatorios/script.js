@@ -46,11 +46,17 @@ btnListar.addEventListener("click", (e) => {
 // adiciono a funcao montar tabela
 btnMontarTabela.addEventListener("click", (e) => {
  e.preventDefault();
- respTabela.innerText = "";
- const copiaLista = [...listaTimes];
- for (i = 0; i <= copiaLista.length; i++) {
-  const primeiro = copiaLista.shift();
-  const ultimo = copiaLista.pop();
-  respTabela.innerText += `${primeiro} x ${ultimo} \n`;
+ if (listaTimes.length % 2 != 0) {
+  alert(
+   "Número de times ímpar, não é possível montar a tabela. \n Digite mais um time"
+  );
+ } else {
+  respTabela.innerText = "";
+  const copiaLista = [...listaTimes];
+  for (i = 0; i <= copiaLista.length; i++) {
+   const primeiro = copiaLista.shift();
+   const ultimo = copiaLista.pop();
+   respTabela.innerText += `${primeiro} x ${ultimo} \n`;
+  }
  }
 });

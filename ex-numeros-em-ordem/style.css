@@ -1,0 +1,23 @@
+body {
+ text-align: center;
+}
+
+.div-form {
+ display: flex;
+ justify-content: center;
+ gap: 4px;
+}
+
+#btnVerificar {
+ margin-top: 12px;
+}
+
+#resp1,
+#resp2 {
+ font-weight: bold;
+ font-size: 1rem;
+}
+
+#resp2 {
+ font-style: italic;
+}

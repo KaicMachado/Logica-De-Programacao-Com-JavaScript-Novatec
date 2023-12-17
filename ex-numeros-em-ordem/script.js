@@ -31,6 +31,7 @@ btnVerificar.addEventListener("click", (e) => {
  if (JSON.stringify(listaNumeros) === JSON.stringify(listaOrdenada)) {
   resp2.innerText = `Os números estão em ordem crescente`;
  } else {
+  resp2.innerText = "";
   resp2.innerText = `Atenção... Números não estão em ordem crescente`;
  }
  form.inNumero.value = "";

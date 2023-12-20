@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Programa Concurso</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Programa Concurso</h1>
+  <form>
+    <p>
+      <label for="candidato">Candidato: </label>
+      <input type="text" name="candidato" id="inCandidato" required>
+    </p>
+    <p>
+      <label for="numAcertos">N° de Acertos : </label>
+      <input type="text" name="numAcertos" id="inAcertos" required>
+      <button id="btnAdd" type="submit">Adicionar</button>
+    </p>
+    <button id="btnListar">Listar Todos</button>
+    <button id="btnAprovados">Aprovados 2° Etapa</button>
+  </form>
+  <pre id="listaNotas"></pre>
+  <script src="script.js"></script>
+</body>
+
+</html>

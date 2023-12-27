@@ -66,4 +66,6 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Programa Gerar Crachá](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-gera-cracha);
 
+[Programa Gerar Email Institucional](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-email-institucional);
+
 Em breve será adicionado os exercícios deste capítulo.

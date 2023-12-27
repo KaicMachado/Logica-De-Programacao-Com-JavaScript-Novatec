@@ -60,4 +60,10 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Programa Concurso](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-concurso);
 
+**Capítulo 6** - **_Strings e Datas_**
+
+[Programa Qual é a Fruta?](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-qual-e-a-fruta);
+
+[Programa Gerar Crachá](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-gera-cracha);
+
 Em breve será adicionado os exercícios deste capítulo.

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    body {
+      text-align: center;
+    }
+
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      margin: 0 auto;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      align-items: flex-start;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>Programa Caixa de Loja</h1>
+    <form>
+      <label>Data de Vencimento: <input type="date" name="dataVencimento" id="dataVencimento"></label>
+
+      <label>Valor da Conta R$: <input type="number" id="valorConta">
+        <button id="calcularJuros">Calcular Multa e
+          juros
+        </button>
+      </label>
+
+      <label>Valor da Multa R$: <input type="number" id="valorMulta"></label>
+
+      <label>Valor do Juros R$: <input type="number" id="valorJuros"></label>
+
+      <label>Total a Pagar R$: <input type="number" id="total"> <button type="reset">Nova
+          Conta</button></label>
+
+
+    </form>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+
+</html>

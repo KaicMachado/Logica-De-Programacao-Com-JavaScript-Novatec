@@ -72,4 +72,6 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Programa Caixa de Loja](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-caixa-de-loja);
 
+[Programa Revenda Avenida](https://github.com/KaicMachado/logica-js-exercicios/tree/main/ex-revenda-avenida);
+
 Em breve será adicionado os exercícios deste capítulo.

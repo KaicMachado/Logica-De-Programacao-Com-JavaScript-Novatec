@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Revenda Avenida</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="content">
+    <h1>Revenda Avenida</h1>
+    <form>
+      <p>
+        <label for="modelo">Modelo do Veículo:</label>
+        <input type="text" name="modelo" id="inModelo" required>
+      </p>
+      <p>
+        <label for="ano">Ano de Fabricação:</label>
+        <input type="text" name="ano" id="inAno" required>
+      </p>
+      <p>
+        <label for="preco">Preço R$:</label>
+        <input type="text" name="preco" id="inPreco" required>
+      </p>
+      <button>Classificar - Calcular Entrada e Parcelas</button>
+    </form>
+    <div class="content-span">
+      <p><span id="modelo"></span></p>
+      <p><span id="entrada"></span></p>
+      <p><span id="parcelas"></span></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
